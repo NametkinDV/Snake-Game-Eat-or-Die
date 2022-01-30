@@ -1,2 +1,2 @@
-# Snake-Game-Eat-or-Die
+# Snake-Game: Eat-or-Die
 My first game
